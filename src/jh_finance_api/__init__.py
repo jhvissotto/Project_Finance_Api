@@ -1,4 +1,5 @@
-import financial
+import Financials
+
 
 def test():
     return { 'test':True }
