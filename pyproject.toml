@@ -1,6 +1,6 @@
 [project]
 name = "jh-finance-api"
-version = "0.1.0"
+version = "0.1.1"
 description = "Discovering Financial Market Secrets"
 authors = [
     {name = "JH"}
