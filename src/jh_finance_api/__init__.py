@@ -1,2 +1,4 @@
+import Financial
+
 def test():
-    return 'test'
+    return { 'test':True }
