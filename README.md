@@ -19,7 +19,7 @@ import jh_finance_api as jh
 # Financials
 
 ```python
-jh.Financials._list(pages=10)
+jh.financial._list(pages=10)
 ```
 
 | Country   | Ticker   | Name              | Slug            |
@@ -32,7 +32,7 @@ jh.Financials._list(pages=10)
 
 
 ```python
-jh.Financials.raw(slug='microsoft')
+jh.financial.raw(slug='microsoft')
 ```
 
 
