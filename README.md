@@ -1,8 +1,9 @@
 # About
 
 ⭐ Portal:   https://bit.ly/finance_analytics  
-🖥️ Server:   https://bit.ly/jh_finance_api  
-🖥️ Swagger:  https://bit.ly/jh_finance_api_swagger  
+🖥️ Github:   https://github.com/jhvissotto/Project_Finance_Api  
+🔌 Server:   https://bit.ly/jh_finance_api  
+🔌 Swagger:  https://bit.ly/jh_finance_api_swagger  
 📊 Related:  https://slashpage.com/jh-analytics
 
 
