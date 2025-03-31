@@ -1,14 +1,13 @@
 [project]
 name = "jh-finance-api"
-version = "0.1.12"
+version = "0.1.13"
 description = "Discovering Financial Market Secrets"
 authors = [
     {name = "Jose_Henrique_V"}
 ]
 readme = "README.md"
 python_requires = ">=3.7,<3.13"
-dependencies = [
-]
+dependencies = ["requests", "pandas"]
 
 [tool.poetry]
 packages = [{include = "jh_finance_api", from = "src"}]

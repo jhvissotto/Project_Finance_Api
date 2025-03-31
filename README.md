@@ -1,10 +1,17 @@
 # About
 
 ⭐ Portal:   https://bit.ly/finance_analytics  
-🖥️ Github:   https://github.com/jhvissotto/Project_Finance_Api  
+📊 Blog:     https://slashpage.com/jh-analytics  
+
+🐍 Python:   https://github.com/jhvissotto/Project_Finance_Api_Python  
+🐍 Pypi:     https://pypi.org/project/jh-finance-api  
+
+🟦 TScript:  https://github.com/jhvissotto/Project_Finance_Api_TScript  
+🟦 NPM:      https://www.npmjs.com/package/finance-analytics-api  
+
 🔌 Server:   https://bit.ly/jh_finance_api  
 🔌 Swagger:  https://bit.ly/jh_finance_api_swagger  
-📊 Related:  https://slashpage.com/jh-analytics
+
 
 
 # Library
@@ -18,10 +25,17 @@ import jh_finance_api as jh
 ```
 
 
+# Info
+
+```python
+info = jh.info.get(TICKER='MSFT')
+```
+
+
 # Financials
 
 ```python
-jh.financial._list(pages=10)
+jh.financial_list.get(pages=10)
 ```
 
 | Country   | Ticker   | Name              | Slug            |
@@ -34,7 +48,7 @@ jh.financial._list(pages=10)
 
 
 ```python
-jh.financial.raw(slug='microsoft')
+jh.financial_raw.get(slug='microsoft')
 ```
 
 
@@ -49,7 +63,7 @@ jh.financial.raw(slug='microsoft')
 
 
 ```python
-Raw, Ratios = jh.financial.ratios(slug='microsoft')
+Raw, Ratios = jh.financial_ratios.get(slug='microsoft')
 
 print(Ratios)
 ```
