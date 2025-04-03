@@ -1,4 +1,4 @@
-# About
+# Ecosystem
 
 ⭐ Portal:     https://bit.ly/finance_analytics  
 📊 Blog:       https://slashpage.com/jh-analytics  
@@ -10,6 +10,8 @@
 
 🟦 TScript:    https://github.com/jhvissotto/Project_Finance_Api_TScript  
 🟦 NPM:        https://www.npmjs.com/package/finance-analytics-api  
+
+🧮 PyHelpers:  https://github.com/jhvissotto/Library_Python_Helpers  
 
 🔌 Server:     https://bit.ly/jh_finance_api  
 🔌 Swagger:    https://bit.ly/jh_finance_api_swagger  
