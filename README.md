@@ -25,6 +25,7 @@
 ```
 
 ```py
+from typing import Literal as Lit
 import jh_finance_api as jh
 ```
 
@@ -39,7 +40,10 @@ info = jh.info.get(TICKER='MSFT')
 # Market
 
 ```py
-jh.market_history.get(TICKER='MSFT')
+assert jh.market_history.PERIODS == Lit['1m','2m','5m','15m','30m','60m','90m','1h','1d','5d','1wk','1mo','3mo']
+assert jh.market_history.UNTILS  == Lit['1d','5d','1mo','3mo','6mo','1y','2y','5y','10y','ytd','max']
+
+jh.market_history.get(TICKER='MSFT', period='1mo', until='max')
 ```
 
 |    | Date                |   Adj Close |   Close |   High |    Low |   Open |    Volume |

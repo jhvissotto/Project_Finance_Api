@@ -1,18 +1,23 @@
 import sys; sys.dont_write_bytecode=True
 import warnings
+from typing import Literal as Lit
 import pandas as pd
 
 warnings.filterwarnings('ignore')
 
 
-endpoint = lambda TICKER: f'https://project-finance-backend.onrender.com/market-history/{TICKER}'
+PERIODS = Lit['1m','2m','5m','15m','30m','60m','90m','1h','1d','5d','1wk','1mo','3mo']
+UNTILS  = Lit['1d','5d','1mo','3mo','6mo','1y','2y','5y','10y','ytd','max']
 
 
-def get(TICKER='MSFT'):
-    return pd.read_json(endpoint(TICKER))
+endpoint = lambda TICKER, period, until: f'https://project-finance-backend.onrender.com/market-history/{TICKER}?period={period}&until={until}'
 
 
-sample_req = 'https://project-finance-backend.onrender.com/market-history/MSFT'
+def get(TICKER='MSFT', period:PERIODS='1mo', until:UNTILS='max'):
+    return pd.read_json(endpoint(TICKER, period, until))
+
+
+sample_req = 'https://project-finance-backend.onrender.com/market-history/MSFT?period=1mo&until=max'
 
 sample_res = [
   {
