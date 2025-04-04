@@ -24,21 +24,37 @@
 !pip install jh_finance_api
 ```
 
-```python
+```py
 import jh_finance_api as jh
 ```
 
 
 # Info
 
-```python
+```py
 info = jh.info.get(TICKER='MSFT')
 ```
 
 
+# Market
+
+```py
+jh.market_history.get(TICKER='MSFT')
+```
+
+|    | Date                |   Adj Close |   Close |   High |    Low |   Open |    Volume |
+|---:|:--------------------|------------:|--------:|-------:|-------:|-------:|----------:|
+|  0 | 2025-04-01 00:00:00 |     373.11  |  373.11 | 385.08 | 369.35 | 374.65 |  95966917 |
+|  1 | 2025-03-01 00:00:00 |     375.39  |  375.39 | 402.15 | 367.24 | 398.82 | 491786600 |
+|  2 | 2025-02-01 00:00:00 |     396.196 |  396.99 | 419.31 | 386.57 | 411.6  | 432448900 |
+|  3 | 2025-01-01 00:00:00 |     414.229 |  415.06 | 448.38 | 410.72 | 425.53 | 462562700 |
+|  4 | 2024-12-01 00:00:00 |     420.657 |  421.5  | 456.16 | 420.66 | 421.57 | 439902400 |
+
+
+
 # Financials
 
-```python
+```py
 jh.financial_list.get(pages=10)
 ```
 
@@ -51,10 +67,10 @@ jh.financial_list.get(pages=10)
 | USA       | GOOG     | Alphabet (Google) | alphabet-google |
 
 
-```python
+
+```py
 jh.financial_raw.get(slug='microsoft')
 ```
-
 
 |   Year |   Shares |   Capital |   DYield |   Revenue |   Income |   Asset |   Equity |
 |-------:|---------:|----------:|---------:|----------:|---------:|--------:|---------:|
@@ -66,7 +82,7 @@ jh.financial_raw.get(slug='microsoft')
 
 
 
-```python
+```py
 Raw, Ratios = jh.financial_ratios.get(slug='microsoft')
 
 print(Ratios)
