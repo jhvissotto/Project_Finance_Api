@@ -23,7 +23,7 @@ sample_res = [
     "Price": 188.38,
     "Chg": -14.81,
     "% Chg": "(-7.29%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 2,
@@ -33,7 +33,7 @@ sample_res = [
     "Price": 359.84,
     "Chg": -13.27,
     "% Chg": "(-3.56%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 3,
@@ -43,7 +43,7 @@ sample_res = [
     "Price": 94.31,
     "Chg": -7.49,
     "% Chg": "(-7.36%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 4,
@@ -53,7 +53,7 @@ sample_res = [
     "Price": 171,
     "Chg": -7.41,
     "% Chg": "(-4.15%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 5,
@@ -63,7 +63,7 @@ sample_res = [
     "Price": 146.29,
     "Chg": -7.72,
     "% Chg": "(-5.01%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 6,
@@ -73,7 +73,7 @@ sample_res = [
     "Price": 504.73,
     "Chg": -26.89,
     "% Chg": "(-5.06%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 7,
@@ -83,7 +83,7 @@ sample_res = [
     "Price": 916.48,
     "Chg": -50.6,
     "% Chg": "(-5.23%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 8,
@@ -93,7 +93,7 @@ sample_res = [
     "Price": 855.86,
     "Chg": -61.19,
     "% Chg": "(-6.67%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 9,
@@ -103,7 +103,7 @@ sample_res = [
     "Price": 239.43,
     "Chg": -27.85,
     "% Chg": "(-10.42%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 10,
@@ -113,7 +113,7 @@ sample_res = [
     "Price": 145.6,
     "Chg": -5.12,
     "% Chg": "(-3.40%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 11,
@@ -123,7 +123,7 @@ sample_res = [
     "Price": 147.74,
     "Chg": -4.89,
     "% Chg": "(-3.20%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 12,
@@ -133,7 +133,7 @@ sample_res = [
     "Price": 248.11,
     "Chg": -19.78,
     "% Chg": "(-7.38%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 13,
@@ -143,7 +143,7 @@ sample_res = [
     "Price": 54.54,
     "Chg": -2.77,
     "% Chg": "(-4.83%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 14,
@@ -153,7 +153,7 @@ sample_res = [
     "Price": 437.96,
     "Chg": -29.26,
     "% Chg": "(-6.26%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 15,
@@ -163,7 +163,7 @@ sample_res = [
     "Price": 146.61,
     "Chg": -4.76,
     "% Chg": "(-3.14%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 16,
@@ -173,7 +173,7 @@ sample_res = [
     "Price": 74.01,
     "Chg": -9.59,
     "% Chg": "(-11.47%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 17,
@@ -183,7 +183,7 @@ sample_res = [
     "Price": 451.58,
     "Chg": -43.03,
     "% Chg": "(-8.70%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 18,
@@ -193,7 +193,7 @@ sample_res = [
     "Price": 294.39,
     "Chg": -15.46,
     "% Chg": "(-4.99%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 19,
@@ -203,7 +203,7 @@ sample_res = [
     "Price": 561.53,
     "Chg": -37,
     "% Chg": "(-6.18%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 20,
@@ -213,7 +213,7 @@ sample_res = [
     "Price": 349.07,
     "Chg": -18.18,
     "% Chg": "(-4.95%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 21,
@@ -223,7 +223,7 @@ sample_res = [
     "Price": 127.46,
     "Chg": -11.96,
     "% Chg": "(-8.58%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 22,
@@ -233,7 +233,7 @@ sample_res = [
     "Price": 4284.02,
     "Chg": -166.51,
     "% Chg": "(-3.74%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 23,
@@ -243,7 +243,7 @@ sample_res = [
     "Price": 85.76,
     "Chg": -8.04,
     "% Chg": "(-8.57%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 24,
@@ -253,7 +253,7 @@ sample_res = [
     "Price": 151.39,
     "Chg": -12.81,
     "% Chg": "(-7.80%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 25,
@@ -263,7 +263,7 @@ sample_res = [
     "Price": 107.25,
     "Chg": -5.14,
     "% Chg": "(-4.57%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 26,
@@ -273,7 +273,7 @@ sample_res = [
     "Price": 33.38,
     "Chg": -2.34,
     "% Chg": "(-6.55%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 27,
@@ -283,7 +283,7 @@ sample_res = [
     "Price": 190.99,
     "Chg": -15.69,
     "% Chg": "(-7.59%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 28,
@@ -293,7 +293,7 @@ sample_res = [
     "Price": 474.62,
     "Chg": -9.39,
     "% Chg": "(-1.94%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 29,
@@ -303,7 +303,7 @@ sample_res = [
     "Price": 286.13,
     "Chg": -19.26,
     "% Chg": "(-6.31%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 30,
@@ -313,7 +313,7 @@ sample_res = [
     "Price": 126.95,
     "Chg": -8.56,
     "% Chg": "(-6.32%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 31,
@@ -323,7 +323,7 @@ sample_res = [
     "Price": 153.57,
     "Chg": -11.6,
     "% Chg": "(-7.02%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 32,
@@ -333,7 +333,7 @@ sample_res = [
     "Price": 1841.29,
     "Chg": -104.26,
     "% Chg": "(-5.36%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 33,
@@ -343,7 +343,7 @@ sample_res = [
     "Price": 82.1,
     "Chg": -6.16,
     "% Chg": "(-6.98%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 34,
@@ -353,7 +353,7 @@ sample_res = [
     "Price": 19.85,
     "Chg": -2.58,
     "% Chg": "(-11.50%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 35,
@@ -363,7 +363,7 @@ sample_res = [
     "Price": 66.31,
     "Chg": -1.59,
     "% Chg": "(-2.34%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 36,
@@ -373,7 +373,7 @@ sample_res = [
     "Price": 164.6,
     "Chg": -16.28,
     "% Chg": "(-9.00%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 37,
@@ -383,7 +383,7 @@ sample_res = [
     "Price": 1389.87,
     "Chg": -52.02,
     "% Chg": "(-3.61%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 38,
@@ -393,7 +393,7 @@ sample_res = [
     "Price": 190.33,
     "Chg": -14.52,
     "% Chg": "(-7.09%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 39,
@@ -403,7 +403,7 @@ sample_res = [
     "Price": 576.53,
     "Chg": -44.29,
     "% Chg": "(-7.13%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 40,
@@ -413,7 +413,7 @@ sample_res = [
     "Price": 59.09,
     "Chg": -6.13,
     "% Chg": "(-9.40%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 41,
@@ -423,7 +423,7 @@ sample_res = [
     "Price": 321.63,
     "Chg": -25.76,
     "% Chg": "(-7.42%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 42,
@@ -433,7 +433,7 @@ sample_res = [
     "Price": 64.72,
     "Chg": -9.62,
     "% Chg": "(-12.94%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 43,
@@ -443,7 +443,7 @@ sample_res = [
     "Price": 293.61,
     "Chg": 11.33,
     "% Chg": "(4.01%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 44,
@@ -453,7 +453,7 @@ sample_res = [
     "Price": 104.21,
     "Chg": -9.46,
     "% Chg": "(-8.32%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 45,
@@ -463,7 +463,7 @@ sample_res = [
     "Price": 219.37,
     "Chg": -42.61,
     "% Chg": "(-16.26%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 46,
@@ -473,7 +473,7 @@ sample_res = [
     "Price": 84.71,
     "Chg": -4.73,
     "% Chg": "(-5.29%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 47,
@@ -483,7 +483,7 @@ sample_res = [
     "Price": 163.16,
     "Chg": -10.83,
     "% Chg": "(-6.22%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 48,
@@ -493,7 +493,7 @@ sample_res = [
     "Price": 232.88,
     "Chg": -16.03,
     "% Chg": "(-6.44%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 49,
@@ -503,7 +503,7 @@ sample_res = [
     "Price": 573.45,
     "Chg": -37.19,
     "% Chg": "(-6.09%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 50,
@@ -513,7 +513,7 @@ sample_res = [
     "Price": 388.13,
     "Chg": -29.63,
     "% Chg": "(-7.09%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 51,
@@ -523,7 +523,7 @@ sample_res = [
     "Price": 214.58,
     "Chg": -10.04,
     "% Chg": "(-4.47%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 52,
@@ -533,7 +533,7 @@ sample_res = [
     "Price": 541.8,
     "Chg": -37.9,
     "% Chg": "(-6.54%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 53,
@@ -543,7 +543,7 @@ sample_res = [
     "Price": 58.37,
     "Chg": -3.34,
     "% Chg": "(-5.41%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 54,
@@ -553,7 +553,7 @@ sample_res = [
     "Price": 104.48,
     "Chg": -4.63,
     "% Chg": "(-4.24%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 55,
@@ -563,7 +563,7 @@ sample_res = [
     "Price": 57.08,
     "Chg": -2.57,
     "% Chg": "(-4.31%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 56,
@@ -573,7 +573,7 @@ sample_res = [
     "Price": 605.55,
     "Chg": -17.67,
     "% Chg": "(-2.84%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 57,
@@ -583,7 +583,7 @@ sample_res = [
     "Price": 170.96,
     "Chg": -19.28,
     "% Chg": "(-10.13%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 58,
@@ -593,7 +593,7 @@ sample_res = [
     "Price": 245.51,
     "Chg": -11.64,
     "% Chg": "(-4.53%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 59,
@@ -603,7 +603,7 @@ sample_res = [
     "Price": 54.51,
     "Chg": -2.13,
     "% Chg": "(-3.76%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 60,
@@ -613,7 +613,7 @@ sample_res = [
     "Price": 143.32,
     "Chg": -10.21,
     "% Chg": "(-6.65%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 61,
@@ -623,7 +623,7 @@ sample_res = [
     "Price": 27.21,
     "Chg": -0.78,
     "% Chg": "(-2.79%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 62,
@@ -633,7 +633,7 @@ sample_res = [
     "Price": 338.29,
     "Chg": -30.11,
     "% Chg": "(-8.17%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 63,
@@ -643,7 +643,7 @@ sample_res = [
     "Price": 90.88,
     "Chg": -1.48,
     "% Chg": "(-1.60%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 64,
@@ -653,7 +653,7 @@ sample_res = [
     "Price": 217.14,
     "Chg": -11.19,
     "% Chg": "(-4.90%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 65,
@@ -663,7 +663,7 @@ sample_res = [
     "Price": 106.66,
     "Chg": -7.31,
     "% Chg": "(-6.41%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 66,
@@ -673,7 +673,7 @@ sample_res = [
     "Price": 33.81,
     "Chg": -1.82,
     "% Chg": "(-5.11%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 67,
@@ -683,7 +683,7 @@ sample_res = [
     "Price": 45.35,
     "Chg": -1.88,
     "% Chg": "(-3.98%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 68,
@@ -693,7 +693,7 @@ sample_res = [
     "Price": 130.31,
     "Chg": -0.9,
     "% Chg": "(-0.69%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 69,
@@ -703,7 +703,7 @@ sample_res = [
     "Price": 49.43,
     "Chg": -6.21,
     "% Chg": "(-11.16%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 70,
@@ -713,7 +713,7 @@ sample_res = [
     "Price": 74.42,
     "Chg": -3.59,
     "% Chg": "(-4.60%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 71,
@@ -723,7 +723,7 @@ sample_res = [
     "Price": 160.81,
     "Chg": -11.07,
     "% Chg": "(-6.44%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 72,
@@ -733,7 +733,7 @@ sample_res = [
     "Price": 284.99,
     "Chg": -20.1,
     "% Chg": "(-6.59%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 73,
@@ -743,7 +743,7 @@ sample_res = [
     "Price": 68.46,
     "Chg": -5.46,
     "% Chg": "(-7.39%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 74,
@@ -753,7 +753,7 @@ sample_res = [
     "Price": 67.89,
     "Chg": -4.25,
     "% Chg": "(-5.89%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 75,
@@ -763,7 +763,7 @@ sample_res = [
     "Price": 83.93,
     "Chg": -5.89,
     "% Chg": "(-6.56%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 76,
@@ -773,7 +773,7 @@ sample_res = [
     "Price": 497.13,
     "Chg": -42.56,
     "% Chg": "(-7.89%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 77,
@@ -783,7 +783,7 @@ sample_res = [
     "Price": 123.37,
     "Chg": -17.91,
     "% Chg": "(-12.68%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 78,
@@ -793,7 +793,7 @@ sample_res = [
     "Price": 29.68,
     "Chg": -1.13,
     "% Chg": "(-3.67%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 79,
@@ -803,7 +803,7 @@ sample_res = [
     "Price": 135.34,
     "Chg": -9.51,
     "% Chg": "(-6.57%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 80,
@@ -813,7 +813,7 @@ sample_res = [
     "Price": 35.41,
     "Chg": -5.45,
     "% Chg": "(-13.34%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 81,
@@ -823,7 +823,7 @@ sample_res = [
     "Price": 194.58,
     "Chg": -14.35,
     "% Chg": "(-6.87%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 82,
@@ -833,7 +833,7 @@ sample_res = [
     "Price": 68.74,
     "Chg": -4.53,
     "% Chg": "(-6.18%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 83,
@@ -843,7 +843,7 @@ sample_res = [
     "Price": 152.06,
     "Chg": -3.69,
     "% Chg": "(-2.37%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 84,
@@ -853,7 +853,7 @@ sample_res = [
     "Price": 393.73,
     "Chg": -17.03,
     "% Chg": "(-4.15%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 85,
@@ -863,7 +863,7 @@ sample_res = [
     "Price": 187.67,
     "Chg": -10.68,
     "% Chg": "(-5.38%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 86,
@@ -873,7 +873,7 @@ sample_res = [
     "Price": 263.7,
     "Chg": 8.05,
     "% Chg": "(3.15%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 87,
@@ -883,7 +883,7 @@ sample_res = [
     "Price": 72.62,
     "Chg": -3.73,
     "% Chg": "(-4.89%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 88,
@@ -893,7 +893,7 @@ sample_res = [
     "Price": 87.93,
     "Chg": -6.54,
     "% Chg": "(-6.92%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 89,
@@ -903,7 +903,7 @@ sample_res = [
     "Price": 60.51,
     "Chg": -11.49,
     "% Chg": "(-15.96%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 90,
@@ -913,7 +913,7 @@ sample_res = [
     "Price": 174.67,
     "Chg": -17.54,
     "% Chg": "(-9.13%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 91,
@@ -923,7 +923,7 @@ sample_res = [
     "Price": 286.85,
     "Chg": -23.6,
     "% Chg": "(-7.60%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 92,
@@ -933,7 +933,7 @@ sample_res = [
     "Price": 59.83,
     "Chg": -1.97,
     "% Chg": "(-3.19%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 93,
@@ -943,7 +943,7 @@ sample_res = [
     "Price": 46.24,
     "Chg": -2.84,
     "% Chg": "(-5.79%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 94,
@@ -953,7 +953,7 @@ sample_res = [
     "Price": 8.07,
     "Chg": -1.09,
     "% Chg": "(-11.90%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 95,
@@ -963,7 +963,7 @@ sample_res = [
     "Price": 36.22,
     "Chg": -4.49,
     "% Chg": "(-11.03%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 96,
@@ -973,7 +973,7 @@ sample_res = [
     "Price": 144.49,
     "Chg": -7.08,
     "% Chg": "(-4.67%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 97,
@@ -983,7 +983,7 @@ sample_res = [
     "Price": 122.98,
     "Chg": -7.73,
     "% Chg": "(-5.91%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 98,
@@ -993,7 +993,7 @@ sample_res = [
     "Price": 31.54,
     "Chg": -2.83,
     "% Chg": "(-8.23%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 99,
@@ -1003,7 +1003,7 @@ sample_res = [
     "Price": 33.7,
     "Chg": -1.86,
     "% Chg": "(-5.23%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 100,
@@ -1013,7 +1013,7 @@ sample_res = [
     "Price": 154.39,
     "Chg": -8.95,
     "% Chg": "(-5.48%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   },
   {
     "#": 101,
@@ -1023,6 +1023,6 @@ sample_res = [
     "Price": 87.71,
     "Chg": -10.01,
     "% Chg": "(-10.24%)",
-    "Unnamed: 7": null
+    "Unnamed: 7": None
   }
 ]
