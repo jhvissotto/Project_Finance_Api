@@ -8,6 +8,8 @@ from . import market_history
 from . import financial_list
 from . import financial_raw
 from . import financial_ratios
+from . import options_stack
+from . import options_stack_2
 
 
 def test():
