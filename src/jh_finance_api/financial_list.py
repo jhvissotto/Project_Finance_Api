@@ -2,14 +2,14 @@ import sys; sys.dont_write_bytecode=True
 import pandas as pd
 
 
-endpoint = lambda pages: f'https://project-finance-backend.onrender.com/financial-list?pages={pages}'
+endpoint = lambda pages: f'https://proj-finance-backend.onrender.com/financial-list?pages={pages}'
 
 
 def get(pages=10):
     return pd.read_json(endpoint(pages))
 
 
-sample_req = 'https://project-finance-backend.onrender.com/financial-list?pages=1'
+sample_req = 'https://proj-finance-backend.onrender.com/financial-list?pages=1'
 
 sample_res = [
   {

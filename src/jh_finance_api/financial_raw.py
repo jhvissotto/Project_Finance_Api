@@ -2,14 +2,14 @@ import sys; sys.dont_write_bytecode=True
 import pandas as pd
 
 
-endpoint = lambda slug: f'http://project-finance-backend.onrender.com/financial-raw/{slug}'
+endpoint = lambda slug: f'http://proj-finance-backend.onrender.com/financial-raw/{slug}'
 
 
 def get(slug='microsoft'):
     return pd.read_json(endpoint(slug))
 
 
-sample_req = 'https://project-finance-backend.onrender.com/financial-raw/microsoft'
+sample_req = 'https://proj-finance-backend.onrender.com/financial-raw/microsoft'
 
 sample_res = [
   {

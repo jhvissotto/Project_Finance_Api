@@ -4,14 +4,14 @@ import pandas as pd
 warnings.filterwarnings('ignore')
 
 
-endpoint = lambda TICKER: f'https://project-finance-backend.onrender.com/options-stack-2/{TICKER}'
+endpoint = lambda TICKER: f'https://proj-finance-backend.onrender.com/options-stack-2/{TICKER}'
 
 
 def get(TICKER='MSFT'):
     return pd.read_json(endpoint(TICKER))
 
 
-sample_req = 'https://project-finance-backend.onrender.com/options-stack-2/MSFT'
+sample_req = 'https://proj-finance-backend.onrender.com/options-stack-2/MSFT'
 sample_res = [
  {'Code': 'MSFT250411C00230000',
   'Ticker': 'MSFT',

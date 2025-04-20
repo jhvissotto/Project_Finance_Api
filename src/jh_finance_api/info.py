@@ -3,14 +3,14 @@ import json
 import requests as req
 
 
-endpoint = lambda TICKER: f'https://project-finance-backend.onrender.com/info/{TICKER}'
+endpoint = lambda TICKER: f'https://proj-finance-backend.onrender.com/info/{TICKER}'
 
 
 def get(TICKER='MSFT'): 
     return json.loads(req.get(endpoint(TICKER)).content)
 
 
-sample_req = 'https://project-finance-backend.onrender.com/info/MSFT'
+sample_req = 'https://proj-finance-backend.onrender.com/info/MSFT'
 
 sample_res = {
   "address1": "One Microsoft Way",

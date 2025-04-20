@@ -2,7 +2,7 @@ import sys; sys.dont_write_bytecode=True
 import pandas as pd
 
 
-endpoint = lambda slug: f'http://project-finance-backend.onrender.com/financial-ratios/{slug}'
+endpoint = lambda slug: f'http://proj-finance-backend.onrender.com/financial-ratios/{slug}'
 
 
 def get(slug='microsoft'):
@@ -12,7 +12,7 @@ def get(slug='microsoft'):
     return Raw, Ratios
 
 
-sample_req = 'https://project-finance-backend.onrender.com/financial-ratios/microsoft'
+sample_req = 'https://proj-finance-backend.onrender.com/financial-ratios/microsoft'
 
 sample_res = {
   "Raw": [

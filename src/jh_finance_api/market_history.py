@@ -10,14 +10,14 @@ PERIODS = Lit['1m','2m','5m','15m','30m','60m','90m','1h','1d','5d','1wk','1mo',
 UNTILS  = Lit['1d','5d','1mo','3mo','6mo','1y','2y','5y','10y','ytd','max']
 
 
-endpoint = lambda TICKER, period, until: f'https://project-finance-backend.onrender.com/market-history/{TICKER}?period={period}&until={until}'
+endpoint = lambda TICKER, period, until: f'https://proj-finance-backend.onrender.com/market-history/{TICKER}?period={period}&until={until}'
 
 
 def get(TICKER='MSFT', period:PERIODS='1mo', until:UNTILS='max'):
     return pd.read_json(endpoint(TICKER, period, until))
 
 
-sample_req = 'https://project-finance-backend.onrender.com/market-history/MSFT?period=1mo&until=max'
+sample_req = 'https://proj-finance-backend.onrender.com/market-history/MSFT?period=1mo&until=max'
 
 sample_res = [
   {

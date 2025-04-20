@@ -5,14 +5,14 @@ import pandas as pd
 warnings.filterwarnings('ignore')
 
 
-endpoint = lambda: f'https://project-finance-backend.onrender.com/index-us-sp500'
+endpoint = lambda: f'https://proj-finance-backend.onrender.com/index-us-sp500'
 
 
 def get(): 
     return pd.read_json(endpoint())
 
 
-sample_req = 'https://project-finance-backend.onrender.com/index-us-sp500'
+sample_req = 'https://proj-finance-backend.onrender.com/index-us-sp500'
 
 sample_res = [
   {
